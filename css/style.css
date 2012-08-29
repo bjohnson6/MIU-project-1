@@ -6,23 +6,21 @@ MIU 12/08
 
 html{
 	background-color: #d6d6cf;
-	background-image:url(../image/vfwc.png);
+/*	background-image:url(../image/vfwc.png);
 	background-repeat: no-repeat;
 	background-attachment:fixed;
 	background-position: x-% y-%/x-pos y-pos;
-	overflow: scroll;
+	overflow: scroll;*/
 	
 
 }
 
 h1 {
-    margin: 10px 10px 10px 10px;
-    border-bottom-width: 2px solid #999; 
-    padding: 18px;
-    color: white;
+    margin: 4px;
+ 
+    color: #3c2e2b;
+    font: 2px , Ariel, sans-serif;
     font-weight: bold;
-    font-family: Lane-Upper,ariel, sans-serif;
-     font: 28px "Lane-Upper", "Ariel", Verdana, sans-serif;
     text-align: center; 
     background-color: transparent;
 }
