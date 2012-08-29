@@ -38,15 +38,11 @@ form{
 
 p{  
 	font-family: Arial,  sans-serif;
-	text-align: center;
+	font-weight: bold;
+	text-align: left;
 	font-size: 10;
 	color: #3c2e2b;
-	background-color: white;
-	padding: 8px;
-	border-style: dotted;
-	border color: #efefef;
-	margin-left: 20px;
-	margin-right: 20px;
+	
 }
 
 h2{
