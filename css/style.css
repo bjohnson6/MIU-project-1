@@ -11,12 +11,52 @@ html{
 	background-attachment:fixed;
 	background-position: x-% y-%/x-pos y-pos;
 	overflow: scroll;*/
-	
-
+}
+header{
+	text-align: center;
+	background-color:#550d55;
+	margin-bottom: 5px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	width: 436px;
+	height: 15;
 }
 
 
+p{  
+	font-family: Arial,  sans-serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 14;
+	color: white;
+	margin-left: 10px;
+	
+}
+div#feature1{
 
+
+}
+form{
+	background-color: #550d55;
+	width: 436px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	margin-right: 10px;
+}
+
+input#search{
+	width: 195px;
+	height: 25px;
+	margin-left: 90px;
+}
+div#browse{
+	text-align: left;
+	margin-left: 5px;
+	font-size: 20px;
+	font-family: Arial,  sans-serif;
+	padding-top: 8px;
+	background-color: white;
+}
 
 h1 {
     margin: 4px;
@@ -32,19 +72,20 @@ body {
 	background-color: transparent;
 }
 
+div#FirstMet{
+      text-align: left;
+      color: black;
+}
+a#FirstMet{
+    text-align: left;
+}
+
 form{
 	text-align:left
 	/*color:whilte;*/
 }
 
-p{  
-	font-family: Arial,  sans-serif;
-	font-weight: bold;
-	text-align: left;
-	font-size: 10;
-	color: #3c2e2b;
-	
-}
+
 
 h2{
 	font-family: Arial, sans-serif;
@@ -203,7 +244,7 @@ a{
  color:#0d8f4a;
  font-family: Arial,  sans-serif;
  /*margin-left: 21px; */
- text-align: center;
+ text-align: left;
  display: block;
  font-style: italic;
 }
