@@ -20,6 +20,7 @@ header{
 h1 id{
 	color:white;
 }
+
 a#displayLink{
 	text-align: center;
 	color: #4b4b4b;
@@ -67,9 +68,9 @@ div#browse{
 h1 {
     margin: 4px;
  
-    color: #3c2e2b;
-    font: 2px , Ariel, sans-serif;
-    font-weight: bold;
+    color: white;
+    font:  myrid pro, sans-serif;
+   
     text-align: center; 
     background-color: transparent;
 }

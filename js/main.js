@@ -103,7 +103,7 @@ function storeData(key){
 	    item.startd         =["Start Date:",$("startd").value];
 	    item.endd           =["End Date:", $("endd").value];
 	    item.zodiac         =["Relationship Status:", zodiacValue]; //////
-	    item.range          =["Rate My Lover:",$("range").value]; 
+	    item.range          =["Rate My Moment:",$("range").value]; 
 	    item.addnotes       =["Add Notes:",$("addnotes").value];
 	 //save data ito local storage: Use stringify to convert object to a string.
 	 localStorage.setItem(id, JSON.stringify(item));
