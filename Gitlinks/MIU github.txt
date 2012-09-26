@@ -1,9 +1,8 @@
 Bernice Johnson
-Visual Frameworks
-Project 4
-August 29, 2012
+MIU
+Project 1
+September 26, 2012
 
  My Git links :
 
-https://github.com/bjohnson6/Miu.git
-
+https://github.com/bjohnson6/miuweek1.git
