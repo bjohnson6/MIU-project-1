@@ -17,8 +17,9 @@ header{
 	width: 436px;
 	height: 15;
 }
-h1 id{
+ id="test"{
 	color:white;
+	font-family: ariel;
 }
 
 a#displayLink{
